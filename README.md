@@ -1,2 +1,1 @@
-> [!CAUTION]
-> Choice is a dumbass :skull:
+<h1 align="center">Choice is a dumbass</h1>
