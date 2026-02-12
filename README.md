@@ -1,1 +1,1 @@
-<h1 align="center">Choice is a dumbass</h1>
+<h1 align="center">Choice and Shuini are dumbasses</h1>
